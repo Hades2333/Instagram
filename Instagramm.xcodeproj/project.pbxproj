@@ -157,6 +157,7 @@
 				1493AF0825F360DD0070F583 /* AppDelegate.swift */,
 				1493AF0A25F360DD0070F583 /* SceneDelegate.swift */,
 				141DDD6425F3E85C00A71B38 /* DatabaseManager.swift */,
+				14EDF58625F36A5000C359A1 /* CameraViewController.swift */,
 				141DDD6725F3E99600A71B38 /* AuthManager.swift */,
 				141DDD6A25F3E9DB00A71B38 /* StorageManager.swift */,
 				14863D4425F4D67E002BE399 /* Extensions.swift */,
@@ -178,7 +179,6 @@
 			children = (
 				1493AF0C25F360DD0070F583 /* HomeViewController.swift */,
 				14EDF58325F36A4400C359A1 /* ExploreViewController.swift */,
-				14EDF58625F36A5000C359A1 /* CameraViewController.swift */,
 				14EDF58925F36A6200C359A1 /* NotificationsViewController.swift */,
 				14EDF58C25F36A6E00C359A1 /* ProfileViewController.swift */,
 			);
